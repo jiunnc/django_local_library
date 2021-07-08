@@ -151,5 +151,8 @@ STATIC_URL = '/static/'
 # Simplified static file serving.
 # https://warehouse.python.org/project/whitenoise/
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 0fa828108d0a82fefa2fa56756d395910e92dca5
